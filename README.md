@@ -19,7 +19,7 @@
      ```
       
      ### 2. /stats/p=m
-     This endpoint must respond a JSON object with aggregated results from the past minutes m.
+     This endpoint must return a JSON object with aggregated results from the past minutes m.
      The object should look like:
      ```
      {
